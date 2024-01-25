@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @03andreab
-- 👀 I’m interested in dogs, learning and travelling
-- 🌱 I’m currently learning programming to appply to biotech field
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
